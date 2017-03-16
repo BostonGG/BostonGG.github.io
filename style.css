@@ -1,9 +1,6 @@
 html{
   background-color: #FFFCE1;
-<<<<<<< HEAD
   font-family: sans-serif;
-=======
->>>>>>> parent of 2658772... Revert "First Website Upload"
 }
 
 body{
@@ -18,20 +15,12 @@ body{
 }
 
 #mainHeader nav{
-<<<<<<< HEAD
 	background-color: #78B186;
-=======
-	background-color: #66A559;
->>>>>>> parent of 2658772... Revert "First Website Upload"
 	list-style: none;
   margin-bottom: 1%;
 	float:right;
 	width:100%;
-<<<<<<< HEAD
   line-height: 32px;
-=======
-  line-height: 30px;
->>>>>>> parent of 2658772... Revert "First Website Upload"
 }
 
 #mainHeader nav li{
@@ -44,30 +33,18 @@ body{
 }
 
 #mainHeader nav .activePage{
-<<<<<<< HEAD
 	background-color:#92CC9F;
-=======
-	background-color:#8DE57B;
->>>>>>> parent of 2658772... Revert "First Website Upload"
 }
 
 header nav li a, header nav li a:link, header nav li a:visited{
 	color: black;
 	height: 30px;
-<<<<<<< HEAD
 	padding: 10px 20px;
-=======
-	padding: 9px 20px;
->>>>>>> parent of 2658772... Revert "First Website Upload"
 	text-decoration: none;
 }
 
 header nav li a:hover, header nav li a:active, header nav li .activePage a:link, header nav .activePage a:visited{
-<<<<<<< HEAD
 	background-color:#92CC9F;
-=======
-	background-color:#8DE57B;
->>>>>>> parent of 2658772... Revert "First Website Upload"
 }
 
 #mainContent{
@@ -78,21 +55,13 @@ header nav li a:hover, header nav li a:active, header nav li .activePage a:link,
 #mainContent #asides{
   float:left;
   width:18%;
-<<<<<<< HEAD
   background-color: #92CC9F;
-=======
-  background-color: #8DE57B;
->>>>>>> parent of 2658772... Revert "First Website Upload"
   padding:1%;
 }
 
 #mainContent #content{
 	float: right;
-<<<<<<< HEAD
 	background-color: #92CC9F;
-=======
-	background-color: #8DE57B;
->>>>>>> parent of 2658772... Revert "First Website Upload"
 	width: 76%;
 	padding:1%;
 }
